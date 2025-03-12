@@ -1,0 +1,23 @@
+img {
+    border-radius: 28px;
+    border-radius: 28px;
+}
+
+main {
+    padding: 0px 80px;
+    padding-top: 88px;
+}
+
+:root {
+    font-family: "Open-Sans", serif;
+  line-height: 150%;
+}
+
+html {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
